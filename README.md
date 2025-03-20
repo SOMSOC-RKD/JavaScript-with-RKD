@@ -1,2 +1,3 @@
 # JavaScript-with-RKD
-Learning fundamental of JS
+Learning fundamental of (JS)
+with RKD
