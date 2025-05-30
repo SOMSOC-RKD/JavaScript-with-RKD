@@ -21,7 +21,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 
 
-// *****************number to string convert*****************
+// *****************number to string convert code*****************
 let someNumber = 99
 let stringNumber = String(someNumber)
 console.log(stringNumber);
