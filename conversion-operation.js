@@ -24,7 +24,14 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // *****************number to string convert code*****************
 let someNumber = 99
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log( typeof stringNumber);
+// console.log(stringNumber);
+// console.log( typeof stringNumber);
 
 // ****************operation ********************************
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
