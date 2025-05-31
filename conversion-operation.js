@@ -31,7 +31,7 @@ let stringNumber = String(someNumber)
 let value = 3
 let negValue = -value
 console.log(negValue);
-
+// for run this code write  (PS C:\Users\PC\Desktop\git> node javascript-with-rkd/conversion-operation then enter)
 console.log(2+2);
-console.log(2-2);
+console.log(2-2);    
 console.log(2*2);
