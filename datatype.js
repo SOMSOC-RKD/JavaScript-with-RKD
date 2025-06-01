@@ -21,7 +21,7 @@ let isloggedIn = false
 
 // console.log(typeof variableName);  sample
 
-console.log(typeof undefined);
+// console.log(typeof undefined);
 
 
 //  datatype name eg datatype of null is object
@@ -30,3 +30,20 @@ console.log(typeof undefined);
 // string = string 
 // number = number
 // undefined = undefined
+
+
+
+// non premitive datatype
+
+// Array, Object, Function
+
+const heros = ["Hanuman","Mahadev" ]
+let myObj = {
+    name: "RKD",
+    age: 28,
+}
+
+const myFunction = function(){
+    console.log("hellow world");
+
+}
