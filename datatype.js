@@ -24,3 +24,9 @@ let isloggedIn = false
 console.log(typeof undefined);
 
 
+//  datatype name eg datatype of null is object
+// null = Object
+// boolean = boolean
+// string = string 
+// number = number
+// undefined = undefined
