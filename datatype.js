@@ -12,7 +12,7 @@ let isloggedIn = false
 
 
 // number => 2 to the power 52
-// bigint => if number is too large
+// bigInt => if number is too large
 // string => ""
 // boolean => true/false
 // null => standalone value
