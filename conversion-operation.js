@@ -52,3 +52,26 @@ let b = 6
 let c =(a+b)
 
 console.log(c);
+// ,,,,,,,,,,,,,,,, [(+ true) is posible but (true +) is not possible]
+console.log(+true)  
+
+
+
+// increament operation 1
+
+// let gameCounter = 100
+// gameCounter++ ;
+// console.log(gameCounter)
+
+
+
+
+// increament operation 2
+
+// let gameCounter = 100
+// ++gameCounter ;
+// console.log(gameCounter)
+
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+
+// link for study about prefix and post fix
