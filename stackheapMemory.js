@@ -1,6 +1,7 @@
 
 // stack(primitive memory), 
 // store in stack memory  here one copy of data is delivered
+
 // let myName = "Ramkrishna"
 // let anothername = myName;
 
