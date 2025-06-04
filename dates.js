@@ -28,4 +28,10 @@ let myTimeStamp = Date.now()
 
 let newDate = new Date();
 console.log(newDate);
-console.log(newDate);
+// console.log(newDate.getFullYear());
+console.log(newDate.getMonth()+1);
+// console.log(newDate.getHours());
+
+newDate.toLocaleString('default',{
+weekday: "long"
+})
