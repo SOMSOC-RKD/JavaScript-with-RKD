@@ -17,4 +17,10 @@ console.log(otherNumber.toPrecision(2));
 console.log(otherNumber.toPrecision(3));
 
 const hundred = 1000000000
+console.log(hundred.toLocaleString('en-IN'));
 console.log(hundred.toLocaleString());
+
+// ************************* MATH *************************
+
+console.log(Math);
+console.log(math.abs());
