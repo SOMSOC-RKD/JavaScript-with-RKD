@@ -48,7 +48,7 @@ console.log(myn1);
 console.log("B", myArr);
 
 //splice
-// in splice original array is manupulated or effected 
+// in splice [ this array] manupulated or effected  original array
 const myn2 = myArr.splice(1,3)
 
 console.log(myn2);
